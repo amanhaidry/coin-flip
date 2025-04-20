@@ -14,4 +14,6 @@ This is a simple Coin Flip web application built using HTML, CSS, and JavaScript
 2. Click the "Toss Coin" button to flip the coin.
 3. View the result displayed below the coin.
 
+## Screenshot
 
+![Screenshot of Coin Flip Application](screenshots/screenshot.png)
