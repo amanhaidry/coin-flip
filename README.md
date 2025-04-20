@@ -16,4 +16,4 @@ This is a simple Coin Flip web application built using HTML, CSS, and JavaScript
 
 ## Screenshot
 
-![Screenshot of Coin Flip Application](screenshots/screenshot.png)
+![Screenshot of Coin Flip Application](screenshots/Screenshot.png)
