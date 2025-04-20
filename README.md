@@ -10,10 +10,15 @@ This is a simple Coin Flip web application built using HTML, CSS, and JavaScript
 
 ## How to Use
 
-1. Open the `index.html` file in your browser.
+1. Go to the live Flip Coin page : [Flip Coin](https://amanhaidry.github.io/coin-flip/)
+
 2. Click the "Toss Coin" button to flip the coin.
 3. View the result displayed below the coin.
 
 ## Screenshot
 
 ![Screenshot of Coin Flip Application](screenshots/Screenshot.png)
+
+## Flip Now
+
+Check out the deployed application here: [Flip Coin](https://amanhaidry.github.io/coin-flip/)
